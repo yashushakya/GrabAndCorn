@@ -86,7 +86,7 @@ const sendBookingConfirmationEmail = inngest.createFunction(
                 populate: { path: "movie", model: "Movie" }
             });
 
-            throw new Error(`DEBUG — booking.user: ${booking.user}`);
+            // throw new Error(`DEBUG — booking.user: ${booking.user}`);
 
             // Safe email extraction
             const clerkUser = await clerkClient.users.getUser(booking.user);
