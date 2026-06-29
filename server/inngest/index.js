@@ -105,4 +105,4 @@ const sendBookingConfirmationEmail = inngest.createFunction(
 
 
 
-export const functions = [syncUserCreation, syncUserDeletion, syncUserUpdation, releaseSeatsAndDeleteBooking. sendBookingConfirmationEmail];
+export const functions = [syncUserCreation, syncUserDeletion, syncUserUpdation, releaseSeatsAndDeleteBooking, sendBookingConfirmationEmail];
