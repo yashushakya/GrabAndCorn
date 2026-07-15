@@ -131,6 +131,3 @@ The app should now be running at `http://localhost:5173` (frontend) with the API
 
 Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a PR.
 
-## License
-
-This project is licensed under the MIT License.
