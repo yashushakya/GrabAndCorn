@@ -49,7 +49,6 @@ GrabAndCorn/
 └── README.md
 ```
 
-> Adjust the folder names above if your actual repo layout differs (e.g. `frontend/` and `backend/` instead of `client/` and `server/`).
 
 ## Getting Started
 
